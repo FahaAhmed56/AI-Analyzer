@@ -1,0 +1,1 @@
+Looking for a software engineer experienced in Python, FastAPI, SQL, Docker, Git, Kubernetes and AWS. Responsibilities include developing REST API services, testing, automation, and CI/CD deployment workflows.

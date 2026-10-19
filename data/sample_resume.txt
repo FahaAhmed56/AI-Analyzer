@@ -1,0 +1,1 @@
+Software engineer with experience building Python and FastAPI applications. Developed REST API integrations and automated tests. Worked with SQL, Docker, Git and CI/CD pipelines. Implemented an internal dashboard for operational analytics.
